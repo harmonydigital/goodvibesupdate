@@ -40,7 +40,7 @@ function initApp(user){
   userView.innerHTML= `   
 
     <div>
-      <a href="https://harmonydigital.github.io/flexDelivery/"  style="color: white;
+      <a href="https://harmonydigital.github.io/goodadm/"  style="color: white;
       font-size: 1.4rem;
       margin: 0px 20px;">
         <i style="color: #ff253a;" class="fa-solid fa-house"></i>
